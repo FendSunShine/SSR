@@ -1,0 +1,10 @@
+.class1 {
+    button {
+        font-size: 20px;
+        background-color: $red;
+    }
+    }
+.text {
+    @include line-text-overflow;
+    width: 100px;
+}
